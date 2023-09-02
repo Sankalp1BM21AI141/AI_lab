@@ -208,4 +208,4 @@ empty_tile_pos = [ 1, 2 ]
 # Function call to solve the puzzle
 solve(initial, empty_tile_pos, final)
 
-# This code is contributed by Kevin Joshi
+'''The time complexity of this algorithm is O(N^2 * N!) where N is the number of tiles in the puzzle, and the space complexity is O(N^2).'''
